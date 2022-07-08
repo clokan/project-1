@@ -1,0 +1,448 @@
+.header > .codepen-logo {
+    text-align: center;
+    padding: 3rem;
+    
+}
+
+svg {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 30px;
+    top: -1px;
+    
+}
+
+
+.header {
+    background-color: black;
+    height: 115px;
+    margin: -10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header > .codepen-logo {
+    padding: 15px 10px 10px 15px;
+}
+
+.header > .explore {
+    font-size: 17px;
+    color: #cea135;
+    position: relative;
+    left: 1px;
+    top: -17px;
+    font-weight: bold;
+}
+
+.header > .white-bar > .pens {
+    font-size: 23px;
+    position: relative;
+    left: -150px;
+    color: white;
+    top: 50px;
+    font-weight: bold;
+}
+
+.header > .white-bar > .projects {
+    font-size: 23px; 
+    position: relative;
+    left: -75px;
+    top: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+.header > .white-bar > .posts {
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 35px;
+    top: -2px
+}
+    
+.header > .white-bar > .collections {
+    font-size: 23px;
+    color: white;
+    position: relative;
+    left: 120px;
+    top: -29px;
+    font-weight: bold;
+}
+
+
+
+ button {
+    position: relative;
+    font-size: 25px;
+    padding: 20px;
+    color: white;
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    top: 20px;
+    
+}
+.button-2  {
+    position: relative;
+    font-size: 25px;
+    padding: 20px;
+    color: white;
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    left: 70px;
+
+}
+.button-3  {
+    position: relative;
+    font-size: 25px;
+    padding: 20px;
+    color: white;
+    background-color: grey;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    top: 3px;
+    left: 47px;
+}
+
+
+.header > .spark {
+    position: relative;
+    top: 11px;
+    left: 95px;
+    color: grey;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.header > .arrow {
+    position: relative;
+    top: 12px;
+    left: 43px;
+    color: grey;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+button > .button__icon {
+    color: lightgreen;
+}
+
+
+.button-1 {
+    position: relative;
+    top: 3px;
+    left: 165px;
+}
+.button-2 {
+    position: relative;
+    top: 3px;
+    left: 100px;
+}
+
+.header > .search {
+    position: relative;
+    top: 3px;
+    font-size: 2.5em;
+    color: grey;
+    position: relative;
+    left: 130px;
+}
+
+.pens {
+    position: relative;
+    top: 50px;
+    left: -160px;
+
+}
+
+
+/* mid-section */
+
+.mid-section {
+    background-color: #404040;
+    margin: -9px;
+    height: 750px;
+}
+
+.mid-section > .middle-section > .image img {
+    height: 610px;
+    width: 640px;
+    position: relative;
+    left: 910px;
+}
+
+.mid-section > .middle-section > .this-is {
+    position: relative;
+    left: 930px;
+    top: 70px;
+    color: white;
+    font-size: 1.4em;
+    font-weight: bold;
+    position: relative;
+}
+
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    }
+
+
+.mid-section > .middle-section > .codepen-projects {
+    position: relative;
+    color: lightblue;
+    font-size: 1.4em;
+    left: 1000px;
+    top: 45px;
+    font-weight: bold;
+    position: relative;
+}
+
+.mid-section > .middle-section > .codepen-is-a {
+    position: relative;
+    color: lightgray;
+    font-weight: lighter;
+    top: -640px;
+    left: 75px;
+    font-size: 2.8em;
+}
+
+.mid-section > .middle-section > .social-development {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    top: -693px;
+    left: 320px;
+    font-size: 2.8em;   
+}
+
+.mid-section > .middle-section > .environment {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    top: -695px;
+    left: 75px;
+    font-size: 2.8em;    
+}
+.mid-section > .middle-section > .design {
+    position: relative;
+    color: lightgrey;
+    font-weight: lighter;
+    top: -747px;
+    left: 328px;
+    font-size: 2.8em;    
+}
+
+.mid-section > .middle-section > .developers {
+    position: relative;
+    color: lightgrey;
+    font-weight: lighter;
+    top: -750px;
+    left: 75px;
+    font-size: 2.8em;   
+}
+
+
+ .mid-section > .middle-section > i {
+    color: yellow;
+    position: relative;
+    top: -795px;
+    left: 365px;
+    font-size: 2.8em; 
+ }   
+
+.mid-section > .middle-section > .its {
+    position: relative;
+    color: lightgrey;
+    font-weight: lighter;
+    top: -750px;
+    left: 75px;
+    font-size: 2.5em; 
+}
+
+.mid-section > .middle-section > .web {
+    position: relative;
+    color: lightgrey;
+    font-weight: lighter;
+    top: -730px;
+    left: 75px;
+    font-size: 2.5em;
+}
+
+.mid-section > .middle-section > .inspiration {
+    position: relative;
+    color: lightgrey;
+    font-weight: lighter;
+    top: -710px;
+    left: 75px;
+    font-size: 2.5em;
+}
+
+.mid-section > .middle-section > .button-4 {
+    position: relative;
+    top: -650px;
+    left: 78px;
+    color: black;
+    font-size: 2.4em;
+    background-color: #39e75f;
+    font-weight: bold;
+}
+
+.mid-section > .middle-section > .button-5 {
+    position: relative;
+    top: -650px;
+    left: 100px;
+    color: white;
+    background-color: black;
+    font-size: 2.4em;
+    
+}
+
+.mid-section > .middle-section > .box-1 {
+    position: relative;
+    color: white;
+    background-color: #545454;
+    padding: 20px;
+    width: 337.5px;
+    height: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #bebebe;
+    top: -540px;
+    left: 10px;
+}
+
+.mid-section > .middle-section > .box-2 {
+    position: relative;
+    color: white;
+    background-color: #545454;
+    padding: 20px;
+    width: 337.5px;
+    height: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #bebebe;
+    top: -597px;
+    left: 390px;
+}
+
+.mid-section > .middle-section > .box-3 {
+    position: relative;
+    color: white;
+    background-color: #545454;
+    padding: 20px;
+    width: 337.5px;
+    height: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #bebebe;
+    top: -654px;
+    left: 769px;
+}
+
+.mid-section > .middle-section > .box-4 {
+    position: relative;
+    color: white;
+    background-color: #545454;
+    padding: 20px;
+    width: 340px;
+    height: 15px;
+    border-radius: 3px;
+    border: 1px solid;
+    border-color: #bebebe;
+    top: -711px;
+    left: 1147px;
+}
+
+.mid-section > .middle-section > .codepen-for {
+    position: relative;
+    left: 67px;
+    top: -750px;
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold;
+}
+
+.mid-section > .middle-section > .team {
+    position: relative;
+    left: 220px;
+    top: -783px;
+    font-size: 2.0em;
+    font-weight: bold;
+    color: white;
+}
+
+.mid-section > .middle-section > .codepen-for-1 {
+    position: relative;
+    top: -817px;
+    left: 410px;
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold;
+}
+
+.mid-section > .middle-section > .edu {
+    position: relative;
+    left: 560px;
+    top: -850px;
+    font-size: 2.0em;
+    font-weight: bold;
+    color: white;
+}
+
+.mid-section > .middle-section > .codepen-for-2 {
+    position: relative;
+    left: 805px;
+    top: -884px;
+    font-size: 1.6em;
+    font-weight: bold;
+    color: white;
+}
+
+.mid-section > .middle-section > .privacy {
+    position: relative;
+    left: 960px;
+    top: -918px;
+    font-size: 2.0em;
+    font-weight: bold;
+    color: white;
+}
+
+.mid-section > .middle-section> .codepen-for-3 {
+    position: relative;
+    left: 1180px;
+    top: -950px;   
+    font-size: 1.6em;
+    color: white;
+    font-weight: bold; 
+}
+
+.mid-section > .middle-section > .writing {
+    position: relative;
+    left: 1330px;
+    top: -985px;
+    font-size: 2.0em;
+    font-weight: bold;
+    color: white;
+}
+
+
+.middle-section {
+    max-height: 100px;
+    margin-bottom: -100px;
+}
+
+.mid-section {
+    height: 1250px;
+}
+
+html,body {
+    height: 100vh;
+}
+
